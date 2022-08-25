@@ -11,7 +11,9 @@
 今天是我们恋爱的第{{love_day.数据}}天
 
 {{生日1.DATA}}
+
 {{birthday2.数据}}
 
-{{note_en.DATA}} 
+{{note_en.DATA}}
+
 {{note_ch.数据}}
