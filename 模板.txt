@@ -1,15 +1,15 @@
-{{日期.数据}}
+{{date.DATA}}
 
-地区：{{地区.数据}}
+地区：{{region.DATA}}
 
-天气：{{天气.数据}}
+天气：{{weather.DATA}}
 
-气温：{{temp.数据}}
+气温：{{temp.DATA}}
 
-风向：{{wind_dir.数据}}
+风向：{{wind_dir.DATA}}
 
-今天是我们恋爱的第{{love_day.数据}}天
+今天是我们恋爱的第{{love_day.DATA}}天
 
-{{生日1.DATA}} {{birthday2.数据}}
+{{birthday1.DATA}} {{birthday2.DATA}}
 
-{{note_en.DATA}} {{note_ch.数据}}
+{{note_en.DATA}} {{note_ch.DATA}}
