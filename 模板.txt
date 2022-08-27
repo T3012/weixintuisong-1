@@ -13,5 +13,5 @@ pm2.5值： {{pm2p5.DATA}}
 {{birthday1.DATA}} 
 {{birthday2.DATA}} 
 今日建议：{{proposal.DATA}} {{chp.DATA}} 
-{{note_cn.DATA}} 
-{{note_eh.DATA}}
+{{note_en.DATA}} 
+{{note_ch.DATA}}
